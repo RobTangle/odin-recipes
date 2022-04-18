@@ -46,4 +46,5 @@ ul,
 ol {
   font-size: 20px;
   font-weight: 700;
+  text-indent: 1em;
 }
