@@ -20,6 +20,7 @@ h1 {
   border: solid;
   border-color: rgba(194, 194, 10, 0.299);
   border-radius: 8px;
+  padding: 0.5em;
 }
 
 h3 {
