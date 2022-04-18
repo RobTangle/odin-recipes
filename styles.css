@@ -55,8 +55,13 @@ img {
   width: auto;
 }
 
+#recetas,
 .recetas {
+  display: block;
   font-size: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 }
 
 div,
