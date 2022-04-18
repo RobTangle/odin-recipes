@@ -42,8 +42,8 @@ p {
 img {
   border: solid;
   border-radius: 20%;
-  max-width: 450px;
-  height: auto;
+  max-height: 400px;
+  width: auto;
   display: block;
   margin: auto;
 }
