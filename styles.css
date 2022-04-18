@@ -28,6 +28,8 @@ p {
 }
 
 img {
+  border: solid;
+  border-radius: 20%;
   max-width: 450px;
   height: auto;
   display: block;
