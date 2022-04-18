@@ -19,6 +19,10 @@ p {
   font-size: 18px;
 }
 
+.descripcion {
+  font-style: oblique;
+}
+
 img {
   max-width: 450px;
   height: auto;
@@ -42,6 +46,7 @@ img {
   font-size: 24px;
 }
 
+div,
 ul,
 ol {
   font-size: 20px;
