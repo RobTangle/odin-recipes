@@ -11,6 +11,13 @@ h1 {
   text-decoration-style: wavy;
 }
 
+img {
+  max-width: 450px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
 .block {
   display: block;
   margin: auto;
@@ -21,4 +28,8 @@ h1 {
 .odin {
   max-height: 350px;
   width: auto;
+}
+
+.recetas {
+  font-size: 24px;
 }
