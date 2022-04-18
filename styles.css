@@ -12,13 +12,14 @@ h1 {
 }
 
 .home {
+  color: rgb(71, 74, 6);
   text-decoration: underline;
-  text-decoration: wavy;
+  text-decoration-style: wavy;
   font-size: 18px;
   position: fixed;
   border: solid;
   border-color: rgba(194, 194, 10, 0.299);
-  border-radius: 20px;
+  border-radius: 8px;
 }
 
 h3 {
