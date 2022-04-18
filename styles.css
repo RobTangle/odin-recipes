@@ -23,6 +23,10 @@ h1 {
   padding: 0.5em;
 }
 
+.home:hover {
+  background-color: darkgoldenrod;
+}
+
 h3 {
   font-size: 22px;
 }
@@ -71,4 +75,8 @@ ol {
   font-size: 20px;
   font-weight: 700;
   text-indent: 1em;
+}
+
+li:hover {
+  background-color: darkgoldenrod;
 }
